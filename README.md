@@ -1,1 +1,1 @@
-# Operating_Systems
+#  인프런 큰돌님의 강의 듣고 정리
